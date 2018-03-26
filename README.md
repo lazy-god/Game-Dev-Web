@@ -2,4 +2,4 @@
 
 Snake game build on Java Script
 
-Play snake capture 
+Play snake capture https://snake-capture.herokuapp.com/
